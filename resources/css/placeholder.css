@@ -1,0 +1,5 @@
+.placeholder-middle::placeholder {
+    text-align: center; /* Horizontal alignment */
+    vertical-align: middle; /* Vertical alignment */
+    line-height: 40px; /* Match the input height */
+}
